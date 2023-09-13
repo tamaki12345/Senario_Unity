@@ -1,0 +1,10 @@
+$Assets/BackGround/wahu_rouka_night.jpg$
+$yumekawa_girl$
+$choice3$
+$
+Escキーで終了。
+セーブすることもできる。
+
+エンドの際はタイトル画面に戻る。
+$
+$end$
